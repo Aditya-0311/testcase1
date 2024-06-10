@@ -1,5 +1,6 @@
 
 Tabular Style Test Cases
+
 Test Case ID	Description	Pre-conditions	Test Steps	Expected Result	Actual Result	Status
 TC001	Compose and send an email with valid inputs	User is logged into Gmail	1. Click on Compose
 2. Enter "Incubyte" in Subject
